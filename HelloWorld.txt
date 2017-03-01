@@ -1,2 +1,5 @@
-print("Hello World !")----
-print("add something")----
+print("Hello World !")---
+print("add something")---
+hi friend !---
+
+
